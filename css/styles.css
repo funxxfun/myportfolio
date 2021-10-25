@@ -1,0 +1,37 @@
+/* common */
+body{
+  /* color:#333;
+  font-family:Verdana,sans-serif; */
+  margin:0;
+}
+
+img{
+  vertical-align: bottom;
+}
+
+/* header */
+header{
+  background-color:#efefef;
+}
+/* 
+.container{
+  background-color:pink;
+  width: 400px;
+  margin-left:auto;
+  margin-right:auto;
+  display:flex;
+}
+
+
+.icon{
+  background-color:skyblue;
+}
+
+.info{
+  background-color: tomato;
+} */
+
+
+/* main */
+
+/* footer */
